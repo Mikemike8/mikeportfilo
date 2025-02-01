@@ -18,6 +18,9 @@
   #desktop-nav {
     display: none;
   }
+  #clap{
+    display: none;
+  }
   #hamburger-nav {
     display: flex;
   }
@@ -50,6 +53,9 @@
 @media screen and (max-width: 600px) {
   #contact {
     height: 40vh;
+  }
+  #clap{
+    display: none;
   }
   #profile {
     height: 83vh;
