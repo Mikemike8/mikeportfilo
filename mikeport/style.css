@@ -16,7 +16,9 @@ body.dark-theme {
   background-color: #080808;
   color: #ffffff;
 }
-
+.dark-theme .darkie{
+  background:transparent;
+}
 body.dark-theme p {
   color: #e0e0e0;
 }
@@ -100,7 +102,7 @@ body.dark-theme .menu-links a {
 }
 
 body.dark-theme .contact-info-upper-container {
-  background: #1e1e1e;
+  background: black;
   border-color: #bb86fc;
 }
 
