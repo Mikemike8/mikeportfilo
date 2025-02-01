@@ -6,7 +6,9 @@ function toggleMenu() {
 }
 
 
-
+document.getElementById("moonIcont").addEventListener("click", function(event) {
+  event.preventDefault(); // Prevent page refresh
+});
 // Get the moon icon element
 let moonIcon = document.getElementById('moonIcon');
 

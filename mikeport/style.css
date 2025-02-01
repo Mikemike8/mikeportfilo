@@ -199,6 +199,7 @@ a:hover {
   transition: all 0.3 ease-in-out;
 }
 
+
 .menu-links {
   position: absolute;
   top: 100%;
@@ -225,7 +226,7 @@ a:hover {
 }
 
 .menu-links.open {
-  max-height: 300px;
+  max-height: 400px;
 }
 
 .hamburger-icon.open span:first-child {
@@ -548,5 +549,10 @@ footer p {
   
   right: 50px;
   cursor: pointer;
+}
+
+#moonIcont{
+  height: 30px;
+ 
 }
 
