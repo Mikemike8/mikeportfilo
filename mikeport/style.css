@@ -544,7 +544,9 @@ footer p {
 
 #moonIcon{
   height: 30px;
-  margin-top: 2rem;
+  position: absolute;
+  
+  right: 50px;
   cursor: pointer;
 }
 
